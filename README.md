@@ -10,5 +10,6 @@ O robô e bem compacto e foi desenvolvido pensando em todas as missões que irem
 ### foto das garras
 ![1° garra do "Vitor"](Garra1.jpg)
 ![2° garra do "Vitor"](Garra2.jpg)
+### foto da gaiola
 ![gaiola do "Vitor"](Gaiola.jpg)
 ### foto da equipe 
