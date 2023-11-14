@@ -8,4 +8,5 @@ O robô e bem compacto e foi desenvolvido pensando em todos as missões que irem
 ### foto do robô "Vitor"
 ![robô "Vitor](SpikeFT.jpg)
 ### foto das garras
+![1° garra do " Vitor](Garra1.jpg)
 ### foto da equipe 
