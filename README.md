@@ -6,5 +6,6 @@ O nosso robô foi carinhosamente apelidado de “Vitor” inspirado no nome do n
 O “Vitor” tem dois tipos de garra diferente, uma possui uma barra verde, que será usada para fazer as missões do cinema, teatro, experiencia imersiva e som. A outra garra é uma garra mais tradicional, ela fara as missões do palco e da impressora. 
 O robô e bem compacto e foi desenvolvido pensando em todos as missões que iremos fazer e para trocarmos rapidamente a garra. 
 ### foto do robô "Vitor"
+![robô "Vitor](SpikeFT.jpg)
 ### foto das garras
 ### foto da equipe 
