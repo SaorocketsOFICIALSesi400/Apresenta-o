@@ -13,4 +13,4 @@ O robô e bem compacto e foi desenvolvido pensando em todas as missões que irem
 ### foto da gaiola
 ![gaiola do "Vitor"](Gaiola.jpg)
 ### foto da equipe 
-![foto do grupo](fotogrupo.PNG)
+![foto do grupo](fotogrupo.PNG.PNG) 
