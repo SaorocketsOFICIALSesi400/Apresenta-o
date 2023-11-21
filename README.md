@@ -7,6 +7,7 @@ O “Vitor” tem dois tipos de garra diferente, uma possui uma barra verde, que
 O robô e bem compacto e foi desenvolvido pensando em todas as missões que iremos fazer e para trocarmos rapidamente a garra. 
 ### foto do robô "Vitor"
 ![robô "Vitor"](SpikeFT.jpg)
+Modificamos o robô para fortalecer a sua base.   
 ### foto das garras
 ![1° garra do "Vitor"](Garra1.jpg)
 ![2° garra do "Vitor"](Garra2.jpg)
