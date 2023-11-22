@@ -6,12 +6,12 @@ O nosso robô foi carinhosamente apelidado de “Vitor” inspirado no nome do n
 O “Vitor” tem dois tipos de garra diferente, uma possui uma barra verde, que será usada para fazer as missões do cinema, teatro, experiencia imersiva e som. A outra garra é uma garra mais tradicional, ela fara as missões do palco e da impressora. Para entregar o público fizemos uma gaiola, ela será presa na garra, e quando chegar no local a garra irá levantar e deixar o público lá, além disse essa gaiola vai empurrar o carro banana.  
 O robô e bem compacto e foi desenvolvido pensando em todas as missões que iremos fazer e para trocarmos rapidamente a garra. 
 ### foto do robô "Vitor"
-![robô "Vitor"](SpikeFT.jpg)
+![robô "Vitor"](robo.jpg)
 ### Modificamos o robô para fortalecer a sua base.   
 ### foto das garras
-![1° garra do "Vitor"](Garra1.jpg)
+![1° garra do "Vitor"](garram.jpg)
 ![2° garra do "Vitor"](Garra2.jpg)
 ### foto da gaiola
-![gaiola do "Vitor"](Gaiola.jpg)
+![gaiola do "Vitor"](gaiolam.jpg)
 ### foto da equipe 
 ![foto do grupo](fotogrupo.jpeg) 
